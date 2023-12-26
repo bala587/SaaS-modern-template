@@ -16,16 +16,14 @@ Elevate your online experience with my modern SaaS template, a cutting-edge Soft
 - Parallax Scrolling
 - User Attractive Dark Mode 🌈👀
 - Gradient Enhancements
-- 
   
-
   ### Cloning the repository
 
 ```shell
 git clone https://github.com/bala587/SaaS-modern-template.git
 ```
 
-### Install packages (both folder, frontend and backend)
+### Install packages 
 
 ```shell
 npm install
